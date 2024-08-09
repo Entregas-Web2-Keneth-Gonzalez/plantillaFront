@@ -1,0 +1,7 @@
+cmd:
+ng new nombre
+
+seleccionar scss y "no"
+
+para abrir con visual
+code .
